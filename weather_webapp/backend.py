@@ -1,5 +1,5 @@
 import requests
-
+"""API Requests to fetch weather and clouds data"""
 
 API_KEY = 'd8f709eaab7a918f99b954fe1e59335e'
 

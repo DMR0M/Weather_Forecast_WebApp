@@ -1,3 +1,5 @@
 .idea
 venv
 App_Design.png
+ __pycache__
+weather_webapp/__pycache__
