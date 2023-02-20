@@ -14,10 +14,6 @@ def get_data(place, forecast_days=1):
     filtered_data = data['list']
     nr_values = 8 * forecast_days
     filtered_data = filtered_data[:nr_values]
-    # if kind == 'Temperature':
-    #     pass
-    # if kind == 'Sky':
-    #     pass
     return filtered_data
 
 
